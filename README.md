@@ -59,6 +59,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
@@ -164,4 +165,12 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
