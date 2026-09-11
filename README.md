@@ -23,6 +23,7 @@ My Leetcode Problems in Java
 | [1991-find-the-middle-index-in-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roshankumar447/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@ My Leetcode Problems in Java
 | [1480-running-sum-of-1d-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/roshankumar447/DSA-Problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1991-find-the-middle-index-in-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -133,6 +135,7 @@ My Leetcode Problems in Java
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Quicksort
 |  |
 | ------- |
