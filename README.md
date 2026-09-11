@@ -19,6 +19,7 @@ My Leetcode Problems in Java
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
@@ -93,6 +94,7 @@ My Leetcode Problems in Java
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
