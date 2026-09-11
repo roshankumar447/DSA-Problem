@@ -31,12 +31,14 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
