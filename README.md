@@ -14,6 +14,7 @@ My Leetcode Problems in Java
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
@@ -84,6 +85,7 @@ My Leetcode Problems in Java
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
@@ -245,4 +247,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
