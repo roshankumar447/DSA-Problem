@@ -62,6 +62,7 @@ My Leetcode Problems in Java
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
@@ -73,6 +74,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
@@ -134,6 +136,7 @@ My Leetcode Problems in Java
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Simulation
 |  |
@@ -175,4 +178,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
