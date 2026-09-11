@@ -10,6 +10,7 @@ My Leetcode Problems in Java
 | [0027-remove-element](https://github.com/roshankumar447/DSA-Problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -27,6 +28,7 @@ My Leetcode Problems in Java
 | [0027-remove-element](https://github.com/roshankumar447/DSA-Problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
@@ -102,6 +104,7 @@ My Leetcode Problems in Java
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
