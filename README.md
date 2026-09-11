@@ -75,6 +75,7 @@ My Leetcode Problems in Java
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/roshankumar447/DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ My Leetcode Problems in Java
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/roshankumar447/DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
 |  |
 | ------- |
