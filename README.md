@@ -46,6 +46,7 @@ My Leetcode Problems in Java
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3870-count-commas-in-range](https://github.com/roshankumar447/DSA-Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
