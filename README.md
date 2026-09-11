@@ -71,6 +71,7 @@ My Leetcode Problems in Java
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
@@ -205,6 +206,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/roshankumar447/DSA-Problem/tree/master/0072-edit-distance) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -234,4 +236,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
