@@ -92,6 +92,7 @@ My Leetcode Problems in Java
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -189,4 +190,20 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
