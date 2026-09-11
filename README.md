@@ -54,6 +54,7 @@ My Leetcode Problems in Java
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ My Leetcode Problems in Java
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
@@ -132,6 +134,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar447/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roshankumar447/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
