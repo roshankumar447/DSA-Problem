@@ -13,6 +13,7 @@ My Leetcode Problems in Java
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -34,6 +35,7 @@ My Leetcode Problems in Java
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
 ## Greedy
@@ -52,6 +54,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
@@ -121,6 +124,7 @@ My Leetcode Problems in Java
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Simulation
 |  |
 | ------- |
