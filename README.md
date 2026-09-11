@@ -7,6 +7,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumar447/DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/roshankumar447/DSA-Problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ My Leetcode Problems in Java
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
@@ -158,4 +160,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar447/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
