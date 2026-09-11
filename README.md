@@ -64,6 +64,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar447/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/roshankumar447/DSA-Problem/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
@@ -202,6 +203,7 @@ My Leetcode Problems in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/roshankumar447/DSA-Problem/tree/master/0072-edit-distance) |
 | [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
