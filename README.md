@@ -12,6 +12,7 @@ My Leetcode Problems in Java
 | [1480-running-sum-of-1d-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
